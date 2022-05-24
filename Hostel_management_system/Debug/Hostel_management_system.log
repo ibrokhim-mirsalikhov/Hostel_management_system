@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\admin\source\repos\Hostel_management_system\Hostel_management_system\Source.cpp(259,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\Hostel_management_system\Hostel_management_system\Source.cpp(196,27): warning C4101: 'm': unreferenced local variable
+C:\Users\admin\source\repos\Hostel_management_system\Hostel_management_system\Source.cpp(196,9): warning C4101: 'age': unreferenced local variable
+C:\Users\admin\source\repos\Hostel_management_system\Hostel_management_system\Source.cpp(196,14): warning C4101: 'n': unreferenced local variable
+  Hostel_management_system.vcxproj -> C:\Users\admin\source\repos\Hostel_management_system\Debug\Hostel_management_system.exe
